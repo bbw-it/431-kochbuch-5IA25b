@@ -3,14 +3,14 @@
 title: "Pouletfrikadellen"
 date: 2026-06-18
 draft: false
-description: "Saftige Frikadellen aus Poulethack mit Chili, Ingwer und Gemüse — WW-geeignet und kalorienarm."
+description: "Saftige Frikadellen aus Poulethack mit Chili, Ingwer und Gemüse."
 image: "images/recipes/pouletfrikadellen.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Deutsch", "Hauptgericht"]
-tags: ["poulet", "frikadellen", "fettarm", "kalorienarm", "WW", "geflügel"]
-contributors: ["Leon"]
-difficulty: "Normal"
+tags: ["poulet", "frikadellen", "fettarm", "kalorienarm", "geflügel"]
+contributors: ["Leon Körber"]
+difficulty: "Mittel"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 2
@@ -47,9 +47,9 @@ Diese Pouletfrikadellen sind eine fettarme Alternative zum klassischen Fleischpa
 
 ## Tipps
 
-- Statt Brustfilet Pouletbeine verwenden und mit einem Stück Haut durch den Wolf drehen — so werden die Frikadellen aromatischer und bleiben saftiger.
+- Statt Brustfilet Pouletbeine verwenden und mit einem Stück Haut durch den Wolf drehen, so werden die Frikadellen aromatischer und bleiben saftiger.
 - Wer es milder mag, lässt Chili, Knoblauch und Ingwer weg und ergänzt stattdessen zerkleinerte Broccolistängel und Petersilie.
-- Rohes Geflügelhack nicht abschmecken — erst nach dem Braten würzen.
+- Rohes Geflügelhack nicht abschmecken, erst nach dem Braten würzen.
 
 ## Serviervorschläge
 
