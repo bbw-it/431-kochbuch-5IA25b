@@ -4,7 +4,7 @@ title: "Zitronen-Lachs aus dem Ofen"
 date: 2026-06-18
 draft: false
 description: "Saftiger Ofenlachs mit Zitrone, Knoblauch und Thymian – einfach, aromatisch und perfekt für jeden Tag."
-image: "images/recipes/ofen-lachs.png"
+image: "images/recipes/ofen-lachs.jpeg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Fisch", "Hauptgericht"]
@@ -19,8 +19,8 @@ cook_time: "20 Min."
 
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
-  - "3 Lachsfilets"
-  - "1/2 Bio-Zitrone, gewaschen und in Scheiben geschnitten"
+  - "4 Lachsfilets"
+  - "1/2 Bio-Zitrone, gewaschen"
   - "3 EL Zitronensaft"
   - "2 El Olivenöl"
   - "3 Knoblauchzehen, leicht angedrückt"
@@ -36,9 +36,9 @@ instructions:
   - "Die Knoblauchzehen mit der flachen Seite eines Messers leicht andrücken."
   - "Zitronenscheiben, Thymian und Knoblauch rund um und auf die Lachsfilets verteilen."
   - "Olivenöl, Zitronensaft und Honig in einer kleinen Schüssel verrühren. Mit Salz und Pfeffer kräftig würzen."
-  - "Die Marinade gleichmäßig über die Lachsfilets gießen."
+  - "Die Marinade gleichmässig über die Lachsfilets giessen."
   - "Den Lachs in der Mitte des Ofens etwa 20 Minuten backen, bis er die gewünschte Garstufe erreicht hat."
-  - "Direkt aus dem Ofen servieren und nach Belieben mit Reis, Kartoffeln oder frischem Gemüse genießen."
+  - "Direkt aus dem Ofen servieren und nach Belieben mit Reis, Kartoffeln oder frischem Gemüse geniessen."
 ---
 
 > «Wenig Vorbereitung, viel Geschmack, genau so muss Ofenlachs sein.»
@@ -64,5 +64,5 @@ Dieser Zitronen Lachs aus dem Ofen ist ein unkompliziertes Gericht für die schn
 
 - Kalorien: etwa 469 kcal
 - Kohlenhydrate: 8 g
-- Eiweiß: 35 g
+- Eiweiss: 35 g
 - Fett: 33 g
