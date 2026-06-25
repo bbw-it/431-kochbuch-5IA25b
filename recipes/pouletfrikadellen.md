@@ -43,7 +43,7 @@ instructions:
 
 ## Über dieses Rezept
 
-Diese Pouletfrikadellen sind eine fettarme Alternative zur klassischen Fleischpatty. Frisches Gemüse, Chili und Ingwer sorgen für Würze und Saftigkeit.
+Diese Pouletfrikadellen sind eine fettarme Alternative zum klassischen Fleischpatty. Frisches Gemüse, Chili und Ingwer sorgen für Würze und Saftigkeit.
 
 ## Tipps
 
