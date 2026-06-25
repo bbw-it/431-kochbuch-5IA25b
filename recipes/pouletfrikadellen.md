@@ -53,6 +53,6 @@ Diese Pouletfrikadellen sind eine fettarme Alternative zum klassischen Fleischpa
 
 ## Serviervorschläge
 
-- Als Eiweiß-Rezept ohne Kohlenhydrate mit einer Tomatensoße
+- Als Eiweiss-Rezept ohne Kohlenhydrate mit einer Tomatensosse
 - Mit frischem Salat und Quinoa
 - Auch kalt als Fingerfood oder im Buffet sehr lecker
