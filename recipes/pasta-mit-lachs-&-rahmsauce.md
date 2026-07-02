@@ -56,6 +56,6 @@ Dieses Rezept eignet sich für ein schnelles Mittag- oder Abendessen. Während d
 
 ## Variationen
 
-- Frischen Spinat oder Brokolli in die Sauce geben.
+- Frischen Spinat oder Brokkoli in die Sauce geben.
 - Vollkorn- oder glutenfreie Pasta eignen sich ebenfalls.
 - Den Lachs mit Wildlachs austauschen.
