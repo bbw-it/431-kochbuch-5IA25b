@@ -50,7 +50,7 @@ Dieses Rezept eignet sich für ein schnelles Mittag- oder Abendessen. Während d
 ## Tipps
 
 - Für das beste Resultat empfehle ich Gouda und Parmesan für die Käse.
-- Das Rezept lässt sich sehr einfach verbessern mit variationen von Gewürze. Ich empfehle eine Grillgewürz mischung ansonsten sind meine Wahlen: Oregano, Paprika, Kreuzkümmel, Knoblauchpulver, Thymian & weisser Pfeffer
+- Das Rezept lässt sich sehr einfach verbessern mit Variationen von Gewürzen. Ich empfehle eine Grillgewürzmischung ansonsten sind meine Wahlen: Oregano, Paprika, Kreuzkümmel, Knoblauchpulver, Thymian & weisser Pfeffer
 - Ich empfehle frisch geriebenen Parmesan, da die Sauce körnig werden könnte, weil die meisten verpackten Sorten Pulver drauf haben.
 - Tagliatelle eignet sich am besten für dieses Rezept aber alles andere kann auch verwendet werden.
 
