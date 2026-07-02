@@ -22,7 +22,7 @@ ingredients:
   - "250 g Weizenmehl"
   - "1 TL Backpulver"
   - "1 Prise Salz"
-  - "2 EL Pflanzenöl (z. B. Rapsöl)"
+  - "2 EL Pflanzenöl (z.B Rapsöl)"
   - "130 ml Wasser (lauwarm)"
   - "200 g Schmand (alternativ Crème fraîche)"
   - "1 Prise Muskatnuss"
@@ -32,11 +32,11 @@ ingredients:
 
 # ── Zubereitung ──────────────────────────────────────────
 instructions:
-  - "Den Backofen mit dem Backblech auf maximale Hitze vorheizen (220 °C bis 250 °C Ober-/Unterhitze)."
+  - "Den Backofen mit dem Backblech auf maximaler Hitze vorheizen (220 °C bis 250 °C Ober-/Unterhitze)."
   - "Mehl, Backpulver, eine Prise Salz, Öl und lauwarmes Wasser in einer Schüssel rasch zu einem glatten, geschmeidigen Teig verkneten."
   - "Die Zwiebel schälen und in sehr dünne Ringe schneiden. Den Schmand mit Salz, Pfeffer und einer Prise Muskatnuss glattrühren."
   - "Den Teig direkt auf einem Stück Backpapier mit dem Nudelholz extrem dünn ausrollen."
-  - "Den Teig gleichmässig mit dem gewürzten Schmand bestreichen, dabei einen kleinen Rand frei lassen. A mit den Zwiebelringen und Speckwürfeln bestreuen."
+  - "Den Teig gleichmässig mit dem gewürzten Schmand bestreichen, dabei einen kleinen Rand frei lassen. Danach mit den Zwiebelringen und Speckwürfeln bestreuen."
   - "Das Backpapier samt Flammkuchen vorsichtig auf das heisse Backblech in den Ofen schieben."
   - "Bei maximaler Hitze ca. 8–10 Minuten backen, bis der Rand goldbraun und knusprig ist."
 ---
@@ -54,5 +54,5 @@ Der traditionelle Flammkuchen wird eigentlich mit Hefeteig gemacht, aber wenn di
 ## Häufige Fehler
 
 - **Zu dicke Zwiebeln:** Schneide die Zwiebeln wirklich extrem dünn, sonst garen sie in den 8 Minuten im Ofen nicht durch.
-- **Zu viel Schmand:** Wenn der Belag zu dick ist, weicht der Teig durch und verliert seine Knusprigkeit.
+- **Zu viel Crème fraîche:** Wenn der Belag zu dick ist, weicht der Teig durch und verliert seine Knusprigkeit.
 - **Teig klebt:** Sollte der Teig beim Ausrollen kleben, einfach die Teigoberfläche und das Nudelholz mit minimal Mehl bestäuben.
