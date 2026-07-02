@@ -47,7 +47,7 @@ instructions:
 
 ## Über dieses Rezept
 
-Diese Fajitas sind ein einfaches Gericht für 4 Personen. Die weichen Tortillas werden kurz erwärmt und danach mit Poulet, Salat, Cherry-Tomaten, Mais, Avocado und Crème fraîche gefüllt. Das Poulet wird in der Bratpfanne gut durchgebraten und nach Belieben gewürzt.
+Diese Fajitas sind ein einfaches Gericht für vier Personen. Die weichen Tortillas werden kurz erwärmt und danach mit Poulet, Salat, Cherry-Tomaten, Mais, Avocado und Crème fraîche gefüllt. Das Poulet wird in der Bratpfanne gut durchgebraten und nach Belieben gewürzt.
 
 ## Tipps
 
