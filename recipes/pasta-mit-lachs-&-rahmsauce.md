@@ -35,7 +35,7 @@ ingredients:
 instructions:
   - "Den Backofen auf 180 °C Umluft vorheizen. 2 Esslöffel von dem Öl in einer Schüssel mit den Gewürzen mischen und auf den Lachs mit einem Backpinsel streichen, auf ein mit Backpapier belegtes Blech legen und 15-20 Minuten backen."
   - "Während der Lachs im Ofen ist, die Pasta in Salzwasser al dente kochen. Schauen Sie, dass die Pasta von dem Wasser reichlich bedeckt ist. Falls Sie Käse hinzufügen würden, empfehle ich, 200 ml Pastawasser aufzubewahren."
-  - "Das restliche Olivenöl in einem grossen Topf auf mittlere Hitze erhitzen. Die Zwiebeln dünsten bis sie glasig sind und den gehackten Knoblauch kurz mitbraten."
+  - "Das restliche Olivenöl in einem grossen Topf auf mittlere Hitze erhitzen. Die Zwiebeln dünsten bis sie glassig sind und den gehackten Knoblauch kurz mitbraten."
   - "Reduzieren Sie die Hitze auf mittlere-niedrige Hitze. Die gewünschten Gewürze hinzufügen und mischen, den Rahm hinzufügen und die Sauce 4–5 Minuten leicht köcheln lassen, dann den Zitronensaft hinzufügen."
   - "Den fertigen Lachs mit zwei Gabeln zerteilen und in die Sauce reinmischen."
   - "Die gekochte Pasta zur Sauce geben und alles gut mischen. Falls nötig, etwas Nudelwasser hinzufügen. Falls die Sauce zu dick ist, können Sie Teile des Pastawassers hinzufügen, bis sie die gewünschte Konsistenz hat."
@@ -45,17 +45,17 @@ instructions:
 
 ## Über dieses Rezept
 
-Dieses Rezept eignet sich für ein schnelles Mittag- oder Abendessen. Während der Lachs im Ofen gart, kann die Pasta gekocht und die Rahmsauce vorbereitet werden. So steht das Essen in weniger als 30 Minuten auf dem Tisch.
+Dieses Rezept eignet sich für ein schnelles Mittag- oder Abendessen. Während der Lachs im Ofen gart, können die Pasta gekocht und die Rahmsauce vorbereitet werden. So steht das Essen in weniger als 30 Minuten auf dem Tisch.
 
 ## Tipps
 
 - Für das beste Resultat empfehle ich Gouda und Parmesan für die Käse.
 - Das Rezept lässt sich sehr einfach verbessern mit variationen von Gewürzen. Ich empfehle eine Grill Gewürzmischung ansonsten sind meine Wahlen: Oregano, Paprika, Kreuzkümmel, Knoblauch pulver, Thymian & Weisser Pfeffer
-- Ich empfehle frisch geriebenen Parmesan, da die Sauce körnig werden könnte, weil die meisten verpackten Sorten Pulver drauf haben.
+- Ich empfehle frisch geriebener Parmesan da die Sauce körnig werden könnte weil die meisten verpackten haben pulver drauf.
 - Tagliatelle eignet sich am besten für dieses Rezept aber alles andere kann auch verwendet werden.
 
 ## Variationen
 
-- Frischen Spinat oder Brokolli in die Sauce geben.
+- Frischen Spinat oder Brokkoli in die Sauce geben.
 - Vollkorn- oder glutenfreie Pasta eignen sich ebenfalls.
 - Den Lachs mit Wildlachs austauschen.
