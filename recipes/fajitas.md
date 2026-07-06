@@ -43,7 +43,7 @@ instructions:
   - "Die Tortillas zusammenrollen und sofort servieren."
 ---
 
-> «Fajitas sind perfekt zum Selberfüllen — jeder kann seine Tortilla so belegen, wie er möchte.»
+> «Fajitas sind perfekt zum Selberfüllen — jeder kann seine Tortilla so belegen, wie er möchte.» - Simon
 
 ## Über dieses Rezept
 
