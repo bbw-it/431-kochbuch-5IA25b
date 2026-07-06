@@ -4,8 +4,7 @@ title: "Elsässer Flammkuchen"
 date: 2026-06-18
 draft: false
 description: "Der absolute Klassiker aus dem Elsass – hauchdünn, knusprig und in unter 30 Minuten auf dem Tisch."
-image: "images/recipes/flammkuchen.svg"
-
+image: "images/recipes/flammkuchen.jpg"
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Hauptspeise", "Herzhaft"]
 tags: ["flammkuchen", "Speck", "schnell", "knusprig", "backen"]
