@@ -3,12 +3,8 @@
 title: "Kaiserschmarrn"
 date: 2026-06-18
 draft: false
-description: "Ein Kaiserschmarrn ist ein fluffiger,
-zerrissener Pfannkuchen aus Österreich, der goldbraun
-gebraten und mit Puderzucker bestäubt wird. Traditionell
-wird er mit Zwetschgenröster oder Apfelmus serviert
-und ist ein beliebtes Dessert oder süsse Hauptmahlzeit."
-image: "static/images/recipes/Kaiserschmarrn.jpeg"
+description: "Ein Kaiserschmarrn ist ein fluffiger, zerrissener Pfannkuchen aus Österreich, der goldbraun gebraten und mit Puderzucker bestäubt ird. Traditionell wird er mit Zwetschgenröster oder Apfelmus serviert und ist ein beliebtes Dessert oder süsse Hauptmahlzeit."
+image: "images/recipes/Kaiserschmarrn.jpeg"
 
 
 # ── Einordnung ───────────────────────────────────────────
